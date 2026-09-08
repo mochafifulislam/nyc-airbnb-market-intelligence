@@ -46,9 +46,6 @@ Based on empirical data analysis across 84,000+ listings:
 
 ## 📁 Repository Structure
 ```text
-├── data/
-│   ├── Airbnb_Open_Data.csv       # Raw Kaggle Dataset
-│   └── NYC_Airbnb_Cleaned.csv     # Cleaned Data
 ├── scripts/
 │   ├── data_cleaning.py           # Data Wrangling & Feature Engineering
 │   └── import_to_mysql.py         # MySQL Batch Pipeline Script
