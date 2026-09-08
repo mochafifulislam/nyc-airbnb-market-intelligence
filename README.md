@@ -52,6 +52,4 @@ Based on empirical data analysis across 84,000+ listings:
 ├── scripts/
 │   ├── data_cleaning.py           # Data Wrangling & Feature Engineering
 │   └── import_to_mysql.py         # MySQL Batch Pipeline Script
-├── sql/
-│   └── queries.sql                # SQL Aggregations & Market Analysis
 └── README.md                      # Documentation
