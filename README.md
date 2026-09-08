@@ -2,7 +2,9 @@
 
 An end-to-end data analytics and market intelligence project analyzing NYC Airbnb data to provide data-driven property acquisition recommendations for prospective real estate investors.
 
-📌 **Live Interactive Dashboard:** [Looker Studio Dashboard](https://datastudio.google.com/reporting/4bb8f068-e5bf-4132-819f-49adf315f99e?hl=en)
+📌 **Live Interactive Dashboards:**
+* [Looker Studio Executive Dashboard](https://datastudio.google.com/reporting/4bb8f068-e5bf-4132-819f-49adf315f99e?hl=en)
+* [Tableau Public Exploratory Dashboard](https://public.tableau.com/views/NYCAirbnbMarketIntelligenceExploration/Dashboard1?:language=en-US&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -17,8 +19,9 @@ Real estate investors often struggle to identify optimal Airbnb properties due t
 
 ## 🛠️ Tech Stack & Workflow
 * **Python (Pandas, NumPy):** Data cleaning, missing value imputations, outlier removal, and feature engineering (Occupancy Rate & Estimated Annual Revenue calculations).
-* **MySQL / SQL:** Data warehousing, structural schema definition, and aggregation queries.
-* **Google Sheets & Looker Studio:** Data pipeline integration and business-stakeholder-friendly executive dashboard development.
+* **MySQL / SQL:** Relational database warehousing, structural schema definition, and aggregation queries for business insights.
+* **Google Sheets & Looker Studio:** Automated pipeline integration for executive-level reporting and decision-making portals.
+* **Tableau Public:** Deep-dive exploratory data visualization and spatial analysis for market distribution.
 
 ---
 
